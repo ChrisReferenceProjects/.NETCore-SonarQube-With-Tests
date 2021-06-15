@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dBIzeqqsh6ZxIEzzXmX2K/hAHyQgiRDrfRIu5kPHuLPJU2cKxrRajdDfk9medzJWuAOgIYEyFnRaMiua8UTZRQ==",
+  "dgSpecHash": "QiBfIxszV73vBIv+N22s2fD6RYmg4jRpgTOpweJ4ynD77uFodgxS6b7owkGAtImsP9z2Mne0Hx6EKzuNlswMbg==",
   "success": true,
-  "projectFilePath": "/Users/christophehavard/Repos/Surfrider/fillbidatabase/Surfrider-RecurringJobs/Surfrider-RecurringJobs.csproj",
+  "projectFilePath": "/Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs/Surfrider-RecurringJobs.csproj",
   "expectedPackageFiles": [
     "/Users/christophehavard/.nuget/packages/azure.core/1.2.2/azure.core.1.2.2.nupkg.sha512",
     "/Users/christophehavard/.nuget/packages/azure.identity/1.1.1/azure.identity.1.1.1.nupkg.sha512",

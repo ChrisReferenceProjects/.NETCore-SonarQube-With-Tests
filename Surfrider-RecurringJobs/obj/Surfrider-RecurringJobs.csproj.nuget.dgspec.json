@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/christophehavard/Repos/Surfrider/fillbidatabase/Surfrider-RecurringJobs/Surfrider-RecurringJobs.csproj": {}
+    "/Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs/Surfrider-RecurringJobs.csproj": {}
   },
   "projects": {
-    "/Users/christophehavard/Repos/Surfrider/fillbidatabase/Surfrider-RecurringJobs/Surfrider-RecurringJobs.csproj": {
+    "/Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs/Surfrider-RecurringJobs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/christophehavard/Repos/Surfrider/fillbidatabase/Surfrider-RecurringJobs/Surfrider-RecurringJobs.csproj",
+        "projectUniqueName": "/Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs/Surfrider-RecurringJobs.csproj",
         "projectName": "Surfrider-RecurringJobs",
-        "projectPath": "/Users/christophehavard/Repos/Surfrider/fillbidatabase/Surfrider-RecurringJobs/Surfrider-RecurringJobs.csproj",
+        "projectPath": "/Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs/Surfrider-RecurringJobs.csproj",
         "packagesPath": "/Users/christophehavard/.nuget/packages/",
-        "outputPath": "/Users/christophehavard/Repos/Surfrider/fillbidatabase/Surfrider-RecurringJobs/obj/",
+        "outputPath": "/Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/christophehavard/.nuget/NuGet/NuGet.Config"

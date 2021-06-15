@@ -69,7 +69,7 @@ namespace Surfrider.Jobs
             IDictionary<string, Guid> riversIdsFromOldCampaigns = await riverPipeline.GetOldCampaignsFromRivers(riversIdsFromNewCampaigns.Select(x => x.Key).ToList<string>());
 
             // now I have two dictionnaries : one associates new campaigns and river, one associates old campaigns and river
-            IDictionary<string, Guid> allCampaignsAndRivers = riverPipeline.MergeCampaignRiverDictionnaries(riversIdsFromNewCampaigns, riversIdsFromOldCampaigns);
+            //IDictionary<string, Guid> allCampaignsAndRivers = riverPipeline.MergeCampaignRiverDictionnaries(riversIdsFromNewCampaigns, riversIdsFromOldCampaigns);
             
             return new Dictionary<Guid, string>();
         }
