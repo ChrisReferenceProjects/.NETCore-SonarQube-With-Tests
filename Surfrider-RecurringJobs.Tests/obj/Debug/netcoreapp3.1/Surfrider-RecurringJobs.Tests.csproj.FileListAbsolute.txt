@@ -206,7 +206,6 @@
 /Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs.Tests/bin/Debug/netcoreapp3.1/SqlScripts/init_get_new_campaigns_id.sql
 /Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs.Tests/bin/Debug/netcoreapp3.1/SqlScripts/README.md
 /Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs.Tests/bin/Debug/netcoreapp3.1/host.json
-/Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs.Tests/bin/Debug/netcoreapp3.1/local.settings.json
 /Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs.Tests/bin/Debug/netcoreapp3.1/TestsScripts/1_add_fake_campaign.sql
 /Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs.Tests/bin/Debug/netcoreapp3.1/TestsScripts/2_remove_fake_campaign.sql
 /Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs.Tests/bin/Debug/netcoreapp3.1/TestsScripts/3_add_fake_campaigns.sql

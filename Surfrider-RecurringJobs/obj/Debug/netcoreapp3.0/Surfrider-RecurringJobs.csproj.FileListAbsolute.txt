@@ -396,7 +396,6 @@
 /Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 /Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 /Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs/bin/Debug/netcoreapp3.0/host.json
-/Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs/bin/Debug/netcoreapp3.0/local.settings.json
 /Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs/bin/Debug/netcoreapp3.0/Surfrider-RecurringJobs.deps.json
 /Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs/bin/Debug/netcoreapp3.0/Surfrider-RecurringJobs.runtimeconfig.json
 /Users/christophehavard/Sonar/Repos/DotNetCore/Surfrider-RecurringJobs/bin/Debug/netcoreapp3.0/Surfrider-RecurringJobs.runtimeconfig.dev.json
