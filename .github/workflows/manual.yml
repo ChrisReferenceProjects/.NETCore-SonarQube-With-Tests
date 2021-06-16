@@ -44,3 +44,8 @@ jobs:
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"ChrisReferenceProjects_.NETCore-SonarQube-With-Tests" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="${{ secrets.SONAR_HOST_URL }}"
           dotnet build
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
+      - name: Run tests
+        shell: powershell
+        run: |
+          cd ./Surfrider-RecurringJobs.Tests/
+          dotnet test

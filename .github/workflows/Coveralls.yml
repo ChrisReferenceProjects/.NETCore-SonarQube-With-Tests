@@ -25,6 +25,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
         shell: powershell
         run: | 
+          cd ./Surfrider-RecurringJobs.Tests/
           dotnet test
       - name: Coveralls GitHub Action
         uses: coverallsapp/github-action@v1.1.2
