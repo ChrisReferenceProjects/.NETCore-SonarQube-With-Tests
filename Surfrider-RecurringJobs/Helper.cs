@@ -33,5 +33,9 @@ public static class Helper {
             // else
                 return Environment.GetEnvironmentVariable("blob_storage_connection");
         }
+        public static string ANewFunction()
+        {
+            while(true){};
+        }
 }
 }
