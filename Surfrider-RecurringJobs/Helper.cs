@@ -33,5 +33,29 @@ public static class Helper {
             // else
                 return Environment.GetEnvironmentVariable("blob_storage_connection");
         }
+        public static void CodeSmellPartyYeah(){
+            ///////
+            var intType = typeof(int);
+            var runtimeType = intType.GetType(); // Noncompliant, always typeof(System.RuntimeType)
+
+            var s = "abc";
+            if (s.GetType().IsInstanceOfType(typeof(string))) // Noncompliant; false
+            { 
+                Console.WriteLine("toto");
+            }
+
+            ////////
+            if (string.IsNullOrEmpty(Name))
+              {
+                throw new ArgumentException("...");  // Noncompliant
+              }
+            
+            ////////
+            
+        }
+        private int Dispose()  // Noncompliant
+          {
+            // ...
+          }
 }
 }
